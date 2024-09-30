@@ -1,6 +1,6 @@
 # Credit-score
 
-### [**Projeto #01** | Credit-score](https://github.com/JonatanAgneDeFreitas/Credit-score/blob/main/Projeto-1.ipynb)
+### [**Projeto 01** | Credit-score](https://github.com/JonatanAgneDeFreitas/Credit-score/blob/main/Projeto-1.ipynb)
 
 **Por:** [Jonatan Agne de Freitas](https://www.linkedin.com/in/jonatan-agne-de-freitas/)<br>
 <!-- **Data:** 01 de setembro de 2024.<br> -->
